@@ -1,5 +1,5 @@
 # Card-Shuffler-React-App
-A sample react app that shows the usage of creating react components and corresponding business logic.
+A react app that shows the usage of creating react components and corresponding business logic.
 
 1. Install all packages using - npm install
 2. start the app using - npm start
